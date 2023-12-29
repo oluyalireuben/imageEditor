@@ -15,7 +15,6 @@ For the frontend part, we have implemented everything using simple HTML, CSS and
 For the backend part, we have a contact form in the contact section, which is linked to a google form, and any response recorded will be stored automatically in an excel sheet via this form. So, we have all the necessary information and valuable feedbacks of the users who fill this form.
 
 
-
 <h1>FLOW OF PROJECT:</h1>
 
 At the top there is a navbar with which user can navigate to home, about us and contact us pages. The “Get Started”  button at the top of the home page takes the user to the editor section.
