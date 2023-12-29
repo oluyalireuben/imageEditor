@@ -8,8 +8,6 @@ Then there is a section which describes all the editing features that we have us
 After that comes the main editor. Here we have a Canvas in which a user can upload the image he wants to edit with the help of choose button. On the left, there are various sliders and buttons which the user can use to edit the image. After applying the desired editing filters, the user can click on the Download button to download a copy of the edited image and save it.
 If the user wants to revert back to the original image then he/she can click on the Reset button and if the user wants to upload a new image on the canvas he/she can click on the Clear Canvas button which will clear the canvas, after that he/she can click on the choose button to select new image.
 
-
-
 <h1>TOOLS USED :</h2>
 
 We have used HTML, CSS AND JAVASCRIPT for making this website. We have implemented all the editing features and the logic used for implementing these features like saturate, contrast, invert etc  using java-script only. Also, we have used simple image library for drawing the image to canvas.
