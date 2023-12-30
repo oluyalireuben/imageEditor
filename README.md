@@ -1,11 +1,14 @@
 
-<h1>IMAGE EDITOR WEBSITE:</h1>
+<h1>IMAGE EDITOR WEBSITE </h1>
 
 <h3>1. Home :</h3>
 
-The home section starts with a button displaying “Get Started”,  which will direct the user to the Image editor section. After that we have three cards which display the process of image editing.
-Then there is a section which describes all the editing features that we have used in our image editor like grayscale, contrast, saturate and many more. We have used image transition to show how the specific editing feature works and have provided a short description for it as well.
-After that comes the main editor. Here we have a Canvas in which a user can upload the image he wants to edit with the help of choose button. On the left, there are various sliders and buttons which the user can use to edit the image. After applying the desired editing filters, the user can click on the Download button to download a copy of the edited image and save it.
+The home section starts with a button displaying “Get Started”,  which will direct the user to the Image editor section. <br>
+After that we have three cards which display the process of image editing. <br>
+Then there is a section which describes all the editing features that we have used in our image editor like grayscale, contrast, saturate and many more.  <br>
+We have used image transition to show how the specific editing feature works and have provided a short description for it as well.
+After that comes the main editor. Here we have a Canvas in which a user can upload the image he wants to edit with the help of choose button. On the left, there are various sliders and buttons which the user can use to edit the image.<br>
+After applying the desired editing filters, the user can click on the Download button to download a copy of the edited image and save it.
 If the user wants to revert back to the original image then he/she can click on the Reset button and if the user wants to upload a new image on the canvas he/she can click on the Clear Canvas button which will clear the canvas, after that he/she can click on the choose button to select new image.
 
 <h1>TOOLS USED :</h2>
