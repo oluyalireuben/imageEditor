@@ -20,7 +20,8 @@ For the backend part, we have a contact form in the contact section, which is li
 
 <h1>FLOW OF PROJECT:</h1>
 
-At the top there is a navbar with which user can navigate to home, about us and contact us pages. The “Get Started”  button at the top of the home page takes the user to the editor section.
+At the top there is a navbar with which user can navigate to home, about us and contact us pages. <br>
+The “Get Started”  button at the top of the home page takes the user to the editor section.
 
 
 
