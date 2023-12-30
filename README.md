@@ -13,8 +13,8 @@ If the user wants to revert back to the original image then he/she can click on 
 
 <h1>TOOLS USED :</h2>
 
-We have used HTML, CSS AND JAVASCRIPT for making this website. We have implemented all the editing features and the logic used for implementing these features like saturate, contrast, invert etc  using java-script only. Also, we have used simple image library for drawing the image to canvas.
-For the frontend part, we have implemented everything using simple HTML, CSS and JS, involving different sets of animation used, transitions given to particular blocks, fixed navbar and many more.
+We have used HTML, CSS AND JAVASCRIPT for making this website. We have implemented all the editing features and the logic used for implementing these features like saturate, contrast, invert etc  using java-script only. Also, we have used simple image library for drawing the image to canvas.<br>
+For the frontend part, we have implemented everything using simple HTML, CSS and JS, involving different sets of animation used, transitions given to particular blocks, fixed navbar and many more.<br>
 For the backend part, we have a contact form in the contact section, which is linked to a google form, and any response recorded will be stored automatically in an excel sheet via this form. So, we have all the necessary information and valuable feedbacks of the users who fill this form.
 
 
